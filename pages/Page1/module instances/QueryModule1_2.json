@@ -3,18 +3,18 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.4",
-    "name": "QueryModule1_1",
+    "name": "QueryModule1_2",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {
-      "input1": "2"
+      "input1": "21"
     },
     "jsonPathKeys": [],
     "isValid": true,
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_QueryModule1_1",
+  "id": "Page1_QueryModule1_2",
   "deleted": false,
-  "gitSyncId": "65cdfea118e322482188f203_65cdff5218e322482188f244"
+  "gitSyncId": "65ce01a818e322482188f445_65ce01cd18e322482188f460"
 }
